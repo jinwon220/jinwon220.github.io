@@ -1,7 +1,7 @@
 ---
 title: VARIABLE
 author: Jin Won
-layout: post
+layout: java
 ---
 <!-- Text stuff -->
 # VARIABLE
