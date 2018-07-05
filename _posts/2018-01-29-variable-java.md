@@ -4,8 +4,7 @@ author: JinWon
 layout: post
 ---
 
-### class = 설계도 <br> 객체 = 설계도를 기반으로 메모리에 오른 것
-<br>
+### class = 설계도 <br> 객체 = 설계도를 기반으로 메모리에 오른 것<br>
 
 1. 설계도 용도 만드는 클래스  kr.or.test.Emp
 2. 실행을 위해서 만드는 클래스 (실행점: main() 함수) : Ex01_variable
