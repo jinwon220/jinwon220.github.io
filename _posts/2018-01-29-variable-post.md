@@ -6,10 +6,10 @@ layout: post
 <!-- Text stuff -->
 # VARIABLE
 >## class = 설계도 <br> 객체 = 설계도를 기반으로 메모리에 오른 것
->	1. 설계도 용도 만드는 클래스  kr.or.test.Emp <br>
->	2. 실행을 위해서 만드는 클래스 (실행점: main() 함수) : Ex01_variable <br>
->	3. 함수 : public static void main(String[] args){} : 프로그램 시작점, 진입점 <br><br>
->	TIP) C# > void Main() -	class Ex01_variable 
+>	1. 설계도 용도 만드는 클래스  kr.or.test.Emp
+>	2. 실행을 위해서 만드는 클래스 (실행점: main() 함수) : Ex01_variable
+>	3. 함수 : public static void main(String[] args){} : 프로그램 시작점, 진입점
+>>	TIP) C# > void Main() -	class Ex01_variable 
 
 >## 변수 : variable
 >###	변수 Scope (유효범위) : 선언되는 위치에 따라서
