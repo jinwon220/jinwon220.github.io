@@ -1,5 +1,5 @@
 ---
-title: Ex01_Basic VARIABLE
+title: Ex01_Basic-VARIABLE
 author: JinWon
 layout: post
 category: Java
