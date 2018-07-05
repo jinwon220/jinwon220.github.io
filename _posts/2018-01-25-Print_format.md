@@ -1,5 +1,5 @@
 ---
-title: Print_format&오버로딩
+title: Ex01_Basic 포멧&오버로딩
 author: JinWon
 layout: post
 category: Java

@@ -1,5 +1,5 @@
 ---
-title: DataType
+title: Ex01_Basic DataType
 author: JinWon
 layout: post
 category: Java

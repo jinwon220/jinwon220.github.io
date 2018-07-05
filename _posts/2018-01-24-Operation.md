@@ -1,5 +1,5 @@
 ---
-title: Operation(연산자)
+title: Ex01_Basic Operation(연산자)
 author: JinWon
 layout: post
 category: Java
