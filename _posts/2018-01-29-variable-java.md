@@ -16,7 +16,7 @@ layout: post
 >	2. local variable     : 지역변수 (함수안에 있는 변수) class Test{void run(){선언되는 위치}}
 >	3. static variable    : 공유변수
 ~~~java
-//설계도 == class
+//설계도 == class이다
 class Test{
   int iv = 500;
   //instance variable : 객체변수(설계도가 가지고 있는 변수)
