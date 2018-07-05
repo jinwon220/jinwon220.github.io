@@ -1,5 +1,5 @@
 ---
-title: Operation
+title: Operation(연산자)
 author: JinWon
 layout: post
 category: Java
