@@ -19,7 +19,7 @@ layout: java
 ~~~java
 //설계도 == class
 class Test{
-	int iv = 500;
+  int iv = 500;
   //instance variable : 객체변수(설계도가 가지고 있는 변수)
   //이 변수는 초기화를 하지 않아도 된다(기본값 : default)를 가지고 있다
   //why? 왜? 초기화를 하지 않아도 사용가능 할까요
