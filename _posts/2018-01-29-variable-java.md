@@ -1,9 +1,8 @@
 ---
 title: VARIABLE
-author: Jin Won
-layout: java
+author: JinWon
+layout: post
 ---
-<!-- Text stuff -->
 # VARIABLE
 >## class = 설계도 <br> 객체 = 설계도를 기반으로 메모리에 오른 것
 >	1. 설계도 용도 만드는 클래스  kr.or.test.Emp
