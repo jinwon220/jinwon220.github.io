@@ -1,7 +1,7 @@
 ---
 title: VARIABLE
 author: JinWon
-layout: java
+layout: post
 ---
 # VARIABLE
 >## class = 설계도 <br> 객체 = 설계도를 기반으로 메모리에 오른 것
