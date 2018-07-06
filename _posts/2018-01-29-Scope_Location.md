@@ -1,10 +1,11 @@
 ---
-title: Ex02_Scope_Location
+title: Scope_Location
 author: JinWon
 layout: post
 category: Java
 ---
 
+# Ex02_Scope_Location
 
 * class = 설계도 == 데이터 타입(Data Type) <br>
 (new) -> 메모리에 올릴 때 사용하는 메소드
