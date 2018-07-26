@@ -1,5 +1,5 @@
 ---
-title: Javascript_Ajax(1)_XMLHttpRequest
+title: Javascript_Ajax_XMLHttpRequest
 author: JinWon
 layout: post
 category: JavaScript
