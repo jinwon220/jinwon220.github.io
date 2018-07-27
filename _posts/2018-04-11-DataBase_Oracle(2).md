@@ -245,3 +245,8 @@ select 'data' || nvl(null, 'HIHI') from dual;
 --사원의 급여가 1000이상이고 수당을 받지 않는 사원의 사번, 이름, 직종, 급여, 수당을 출력하세요
 select empno, ename, job, sal, comm from emp where sal >= 1000 and comm is null;
 ~~~
+
+~~~sql
+select boardid, nvl(hp,'EMPTY') as "hp" from board;
+~~~
+> nvl() 함수는 숫자, 날짜, 문자 모두 적용가능하다.
