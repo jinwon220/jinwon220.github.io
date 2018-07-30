@@ -293,7 +293,7 @@ right outer join (오른쪽 주, 왼쪽 주)
 full outer join (left, right join > union 하면)
 ~~~
 
-> 내부적으로 등가조인을 실행하고 (주, 종) 관게를 파악해서 <br>
+> 내부적으로 등가조인을 실행하고 (주, 종) 관게를 파악해서<br>
 주인 되는 테이블에있는 남는 데이터를 가지고 오는 것
 
 ~~~sql
